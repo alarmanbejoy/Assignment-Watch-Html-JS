@@ -1,0 +1,39 @@
+
+[
+    {
+      "imageUrl": "https://naviforce.com.bd/wp-content/uploads/2024/01/NAVIFORCE-Man-s-Quartz-Date-Display-Watch-Sports-Waterproof-Wristwatch-Silicone-Band-Multifunction-Chronograph-Male-Clock.jpg_.webp",
+      "title": "Oris",
+      "rating": "5 stars",
+      "reviews": 3,
+      "price": "$70",
+      "color": "red",
+      "oldPrice": "$90",
+      "description": "This is a high-quality, durable watch suitable for all your adventurous needs.",
+      "type": "watch",
+      "modelNumber": "OR-290xt"
+    },
+    {
+      "imageUrl": "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2021/06/Oris-Aquis-Date-Calibre-400-7.jpg?tr=q-70",
+      "title": "Hablut 6 Pro",
+      "rating": "5 stars",
+      "reviews": 5,
+      "price": "$70",
+      "oldPrice": "$100",
+      "color": "green",
+      "description": "A premium watch with advanced features for outdoor adventures and sports.",
+      "type": "watch",
+      "modelNumber": "Hablut-x33"
+    },
+    {
+      "imageUrl": "https://naviforce.com.bd/wp-content/uploads/2023/07/59b4b280463f3cf1ac0f96d1fc919ac2.jpg",
+      "title": "Casio",
+      "rating": "5 stars",
+      "reviews": 4,
+      "price": "$70",
+      "oldPrice": "$110",
+      "description": "A stylish and high-tech watch with numerous health and fitness tracking features.",
+      "type": "watch",
+      "modelNumber": "Casio-series-6"
+    }
+  ]
+  
