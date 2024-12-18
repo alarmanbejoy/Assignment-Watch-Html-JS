@@ -21,6 +21,10 @@ This project is a dynamic and responsive **Product Details Page** built using **
 
 ---
 
+##  LiveLink for this HtML + JavaScript Project
+(https://assignment-watch-html-js.vercel.app/)
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -81,3 +85,4 @@ Size buttons to see pricing for different sizes.
 Quantity buttons to add or remove items.
 Clicking Add to Cart adds the item to the cart.
 Checkout Modal displays cart details, and users can proceed with checkout.
+ 
